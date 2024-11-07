@@ -1,0 +1,17 @@
+C:\Users\Media\source\repos\WINForm\bin\Debug\net8.0-windows\WINForm.exe
+C:\Users\Media\source\repos\WINForm\bin\Debug\net8.0-windows\WINForm.deps.json
+C:\Users\Media\source\repos\WINForm\bin\Debug\net8.0-windows\WINForm.runtimeconfig.json
+C:\Users\Media\source\repos\WINForm\bin\Debug\net8.0-windows\WINForm.dll
+C:\Users\Media\source\repos\WINForm\bin\Debug\net8.0-windows\WINForm.pdb
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.Form1.resources
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.Properties.Resources.resources
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.csproj.GenerateResource.cache
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.AssemblyInfoInputs.cache
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.AssemblyInfo.cs
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.csproj.CoreCompileInputs.cache
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.dll
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\refint\WINForm.dll
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.pdb
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\WINForm.genruntimeconfig.cache
+C:\Users\Media\source\repos\WINForm\obj\Debug\net8.0-windows\ref\WINForm.dll
